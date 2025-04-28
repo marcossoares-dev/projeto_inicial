@@ -1,0 +1,1 @@
+print("esse e o primeiro comando")
